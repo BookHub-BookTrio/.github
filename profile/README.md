@@ -41,7 +41,7 @@
 |------|-----------|
 | **Frontend** | React, styled-components, React Router, Axios |
 | **Backend** | Spring Boot, Spring Security, JWT, MySQL, JPA |
-| **DevOps** | AWS (EC2, S3), Vercel |
+| **DevOps** | AWS (EC2, RDS), Vercel |
 | **협업 도구** | GitHub, Notion, Discord, Figma |
 
 <br>
